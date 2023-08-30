@@ -1,0 +1,23 @@
+{
+  "name": "wallet-add-chain",
+  "version": "1.0.1",
+  "description": "Example of Ethereum wallet integration using web3.js",
+  "main": "main.js",
+  "scripts": {
+    "preinstall": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "syt4sh1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syt4sh1/wallet-add-chain.git"
+  },
+  "bugs": {
+    "url": "https://github.com/syt4sh1/wallet-add-chain/issues"
+  },
+  "homepage": "https://github.com/syt4sh1/wallet-add-chain#readme",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^1.5.0"
+  }
+}
